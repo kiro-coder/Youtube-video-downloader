@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Youtube v downloader
+title = Youtube video downloader
 
 # (str) Package name
 package.name = myapp
